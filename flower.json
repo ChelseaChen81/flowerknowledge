@@ -1,5 +1,4 @@
-{
-  "flowers":[
+[
     {
       "Flower_Name": "Aster",
       "Flower_Story & Origins": "The Aster is a unique daisy-like wildflower that’s known for its star-shaped flower head. Aster meanings include love and wisdom. With a rich history in Greek mythology, it’s said that the aster was created by the tears of the Greek goddess, Astraea. One day, she was so upset by how few stars there were in the dark sky, that she began to cry. As she wept, her tears fell to the ground and turned into star-shaped aster flowers. Thus, the flower was named after her, with aster meaning star. Another interpretation is that asters were created when Virgo scattered stardust over the Earth. Where the stardust settled, aster flowers bloomed. The aster is also an emblem of Venus, the goddess of love.",
@@ -121,4 +120,3 @@
       "Flower_Image": ""
     }
   ]
-}
